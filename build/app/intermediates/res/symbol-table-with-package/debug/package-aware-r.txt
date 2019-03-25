@@ -1,0 +1,5 @@
+com.devmins.flutterappsamples
+drawable ic_launcher
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme

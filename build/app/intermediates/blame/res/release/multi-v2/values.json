@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/jssmy/AndroidStudioProjects/E-Commerce-Flutter-Application/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/jssmy/AndroidStudioProjects/E-Commerce-Flutter-Application/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    }
+                }
+            ]
+        }
+    ]
+}

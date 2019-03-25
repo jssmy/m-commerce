@@ -1,0 +1,4 @@
+#Thu Mar 21 01:03:19 PET 2019
+base.0=/home/jssmy/AndroidStudioProjects/E-Commerce-Flutter-Application/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
